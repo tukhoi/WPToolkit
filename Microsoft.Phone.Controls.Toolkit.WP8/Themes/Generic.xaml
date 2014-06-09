@@ -295,6 +295,7 @@
                                 Content="{TemplateBinding Content}"
                                 ContentTemplate="{TemplateBinding ContentTemplate}"
                                 HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}"
+                                Foreground="White"
                                 IsTabStop="False"
                                 Margin="-1,1,0,-7"
                                 Opacity="{TemplateBinding Opacity}"
